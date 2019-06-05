@@ -2,14 +2,13 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Bike Share Data Analytics
 
 ### Description
-Describe what your project is about and what it does
+This interactive python program gets inputs from the user and provides analytics on bike share data from 3 cities: Chicago, New York and DC. 
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Nanodegree on 'Programming for Data Science'
