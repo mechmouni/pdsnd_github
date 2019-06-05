@@ -9,6 +9,9 @@ This interactive python program gets inputs from the user and provides analytics
 
 ### Files used
 bikeshare.py
+chicago.csv
+new_yorK_city.csv
+washington.csv
 
 ### Credits
 Udacity Nanodegree on 'Programming for Data Science'
