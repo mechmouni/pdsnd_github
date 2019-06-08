@@ -167,7 +167,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
         
-        print('Fetched data for City:{}, Month: {}, Day:{}'.format(city,month,day))
+        print('Fetched data for City:{}, Month of of Week: {}, Day:{}'.format(city,month,day))
         raw_count = 5
         while input('Do you want to see the raw data? Enter yes or no: ').lower() == 'yes': 
             print('printing next {} lines'.format(raw_count))
