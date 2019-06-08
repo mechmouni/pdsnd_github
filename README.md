@@ -7,6 +7,7 @@ Bike Share Data Analytics
 ### Description
 This interactive python program gets inputs from the user and provides analytics on bike share data from 3 cities: Chicago, New York and DC. 
 
+
 ### Files used
 bikeshare.py
 chicago.csv
@@ -15,3 +16,6 @@ washington.csv
 
 ### Credits
 Udacity Nanodegree on 'Programming for Data Science'
+Stackoverflow heros
+
+All rights reserved
