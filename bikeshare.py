@@ -155,7 +155,7 @@ def user_stats(df):
         print("\n Oldest Rider Year: {} \n Youngest Rider Year: {} \n Most Common Year of Birth: {}".format(df['Birth Year'].min(),df['Birth Year'].max(), df['Birth Year'].value_counts().idxmax()))
 
     except KeyError: 
-        print('Gender and Birth Year info is not available for Washington')
+        print('Gender and Birth Year info is not available for Washington DC')
 
     
     print("\nThis took %s seconds." % (time.time() - start_time))
